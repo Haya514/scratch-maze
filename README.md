@@ -27,7 +27,7 @@ Avoid black walls.
 Reach the red finish area to win.
 
 ## Scratch Project Link
-(Add your Scratch link here)
+https://scratch.mit.edu/projects/1130336910/editor/
 
 ## Reflection
 This project supports computational thinking and problem-solving skills while encouraging students to debug and improve their code.
